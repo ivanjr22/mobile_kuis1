@@ -12,14 +12,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Konversi Biner',
+      title: 'Konversi Desimal',
       theme: ThemeData(
        
         primarySwatch: Colors.blue,
 
         visualDensity: VisualDensity.adaptivePlatformDensity, 
       ),
-      home: MyHomePage(title: 'Konversi Biner'),
+      home: MyHomePage(title: 'Konversi Desimal'),
     );
   }
 }
