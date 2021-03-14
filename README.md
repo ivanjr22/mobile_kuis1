@@ -1,4 +1,4 @@
-# Pemrograman Mobile Week 4
+# Pemrograman Mobile Kuis 1
 
 - Nama  : Muhammad Ivan Fadhilah
 - NIM   : 1931710120
@@ -10,4 +10,3 @@
 ![Gambar 2](gambar/2.jpeg)
 ![Gambar 3](gambar/3.jpeg)
 ![Gambar 3](gambar/4.jpeg)
-
