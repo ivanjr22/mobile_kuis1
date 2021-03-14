@@ -65,8 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       color: Colors.teal,
                       onPressed: (){
                         setState(() {
-                          bin=bin+'0';
-                                              
+                          bin=bin+'0';                                             
                         });
                       },
                     ),
@@ -80,8 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       color: Colors.teal,
                       onPressed: (){
                         setState(() {
-                          bin=bin+'1';
-                                              
+                          bin=bin+'1';               
                         });
                       },
                     ),
